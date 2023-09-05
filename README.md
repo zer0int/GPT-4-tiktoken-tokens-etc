@@ -5,6 +5,6 @@ GPT-4 tokenizer, extracted from [OpenAI/tiktoken](https://github.com/openai/tikt
 
 Upload .whl (pip download tiktoken [...], or pypi.org, choose *manylinux cp38) and file in: "/data-gym-cache".
 
-Contains the file obtained from the internet with e.g. "encoding = tiktoken.get_encoding("cl100k_base")" -> for use with gpt-4, gpt-3.5-turbo, text-embedding-ada-002, as the AI doesn't have internet access within its sandbox environment.
+Contains the file (base64 encoded tokens -> for decoded tokens, see "tokens.txt") obtained from the internet with e.g. "encoding = tiktoken.get_encoding("cl100k_base")" -> for use with gpt-4, gpt-3.5-turbo, text-embedding-ada-002, as the AI doesn't have internet access within its sandbox environment.
 
 Note: Needs modification of "tiktoken" library to bypass / wrap around stuff that would try to access the internet (and fail), but GPT-4 can do that (if you can't).
