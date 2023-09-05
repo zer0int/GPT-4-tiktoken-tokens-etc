@@ -1,5 +1,5 @@
 # GPT-4-tiktoken-tokens-etc
-Extracted from OpenAI/tiktoken
+GPT-4 tokenizer, extracted from [OpenAI/tiktoken](https://github.com/openai/tiktoken)
 
 # Can be used for curiosity, or for uploading to GPT-4 code interpreter / advanced data analysis.
 
