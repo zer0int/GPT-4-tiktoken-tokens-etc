@@ -1,0 +1,1 @@
+<bound method Encoding.encode of <Encoding 'cl100k_base'>>

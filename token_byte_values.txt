@@ -1,0 +1,1 @@
+<bound method Encoding.token_byte_values of <Encoding 'cl100k_base'>>

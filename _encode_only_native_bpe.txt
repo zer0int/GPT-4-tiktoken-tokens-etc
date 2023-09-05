@@ -1,0 +1,1 @@
+<bound method Encoding._encode_only_native_bpe of <Encoding 'cl100k_base'>>

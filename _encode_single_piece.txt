@@ -1,0 +1,1 @@
+<bound method Encoding._encode_single_piece of <Encoding 'cl100k_base'>>

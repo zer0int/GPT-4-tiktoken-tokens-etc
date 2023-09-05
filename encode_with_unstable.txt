@@ -1,0 +1,1 @@
+<bound method Encoding.encode_with_unstable of <Encoding 'cl100k_base'>>
